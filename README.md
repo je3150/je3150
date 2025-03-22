@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Juan Elias (@je3150)
-- 👀 I’m interested in software, personal development, and chess. 
-- 🌱 I’m currently studying CS and Applied Math at UC Berkeley. 
-- 💞️ I’m looking to collaborate on open source projects and get as much experience as possible. 
-- 📫 How to reach me: By email at teamjuanelias@gmail.com
+-👋 Hi, I’m Juan Elias (@je3150)
+-👀 I’m interested in data science, risk management, and the intersection of math, stats, and computer science
+-📊 I love building things that use data to solve real-world problems—from simulations and dashboards to risk analysis tools
+-🎓 I’m currently studying Data Science at UC Berkeley, with a focus on Business and Industrial Analytics
+-🤝 I’m open to collaborating on projects related to data engineering, analytics, or financial crime prevention
+-📫 Reach me at: teamjuanelias@gmail.com
